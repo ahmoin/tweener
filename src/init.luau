@@ -5,6 +5,7 @@ local TweenService = game:GetService("TweenService")
 local Spring = require(script.Spring)
 
 local Tweener = {}
+Tweener.Spring = Spring
 
 local DEFAULT_DAMPING_RATIO = 0.375
 local DEFAULT_FREQUENCY = 4.0

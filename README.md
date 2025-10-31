@@ -4,7 +4,7 @@
 
 ```toml
 [dependencies]
-Tweener = "ahmoin/tweener@0.1.0"
+Tweener = "ahmoin/tweener@0.1.1"
 ```
 
 # Tweener
